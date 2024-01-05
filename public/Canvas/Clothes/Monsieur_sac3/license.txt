@@ -1,0 +1,11 @@
+Model Information:
+* title:	LVMH Speedy 25
+* source:	https://sketchfab.com/3d-models/lvmh-speedy-25-3e94dc3b466746598e4fd189bc6f5ff2
+* author:	Carlos.Maciel (https://sketchfab.com/Carlos.Maciel)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "LVMH Speedy 25" (https://sketchfab.com/3d-models/lvmh-speedy-25-3e94dc3b466746598e4fd189bc6f5ff2) by Carlos.Maciel (https://sketchfab.com/Carlos.Maciel) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

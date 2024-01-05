@@ -1,0 +1,11 @@
+Model Information:
+* title:	Red Dress
+* source:	https://sketchfab.com/3d-models/red-dress-8bd8d4b74673400ca8a0b27e384649dd
+* author:	EUTHA_3D (https://sketchfab.com/eutha)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Red Dress" (https://sketchfab.com/3d-models/red-dress-8bd8d4b74673400ca8a0b27e384649dd) by EUTHA_3D (https://sketchfab.com/eutha) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

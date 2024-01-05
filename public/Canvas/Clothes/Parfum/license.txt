@@ -1,0 +1,11 @@
+Model Information:
+* title:	05 Parfum
+* source:	https://sketchfab.com/3d-models/05-parfum-c6de4b728fb74cddaa5ca1e156e45c17
+* author:	Pedro França (https://sketchfab.com/pedrofbfranca)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "05 Parfum" (https://sketchfab.com/3d-models/05-parfum-c6de4b728fb74cddaa5ca1e156e45c17) by Pedro França (https://sketchfab.com/pedrofbfranca) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

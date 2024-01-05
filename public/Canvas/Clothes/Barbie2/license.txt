@@ -1,0 +1,11 @@
+Model Information:
+* title:	Barbie logo 3d
+* source:	https://sketchfab.com/3d-models/barbie-logo-3d-9445ef266fca454da36a928175571387
+* author:	vmmaniac (https://sketchfab.com/vmmaniac)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Barbie logo 3d" (https://sketchfab.com/3d-models/barbie-logo-3d-9445ef266fca454da36a928175571387) by vmmaniac (https://sketchfab.com/vmmaniac) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

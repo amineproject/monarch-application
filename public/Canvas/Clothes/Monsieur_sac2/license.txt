@@ -1,0 +1,11 @@
+Model Information:
+* title:	Leather_Bag ( David King & Co. Bag )
+* source:	https://sketchfab.com/3d-models/leather-bag-david-king-co-bag-4963fdfa8c1f45b39ffc21fd17d370c7
+* author:	Puneet Sharma (https://sketchfab.com/Eshi_Nito)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Leather_Bag ( David King & Co. Bag )" (https://sketchfab.com/3d-models/leather-bag-david-king-co-bag-4963fdfa8c1f45b39ffc21fd17d370c7) by Puneet Sharma (https://sketchfab.com/Eshi_Nito) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
