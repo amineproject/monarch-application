@@ -42,10 +42,12 @@ const NavItems = () => {
 
                 return (
                     <NavItem
-                     category={category} 
-                     handleOpen={handleOpen} 
-                     isOpen={isOpen} 
-                     key={category.value} isAnyOpen={isAnyOpen} />
+                        category={category}
+                        handleOpen={handleOpen}
+                        isOpen={isOpen}
+                        key={category.value} isAnyOpen={isAnyOpen} close={function (): void {
+                            throw new Error("Function not implemented.")
+                        } } />
                 )
             })}
         </div>
